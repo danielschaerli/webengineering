@@ -1,6 +1,6 @@
 {
-  "name": "socket-chat",
+  "name": "socket-chat-example",
   "version": "0.0.1",
-  "dependencies": {
-  }
+  "description": "my first socket.io app",
+  "dependencies": {}
 }
