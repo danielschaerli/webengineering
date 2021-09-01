@@ -1,7 +1,21 @@
 {
-  "name": "socket-chat-example",
-  "version": "0.0.1",
-  "description": "my first socket.io app",
-  "dependencies": {}
+  "name": "webengineering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Backend/index.js",
+  "scripts": {
+    "test": "test",
+    "start": "./run.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
 }
-
